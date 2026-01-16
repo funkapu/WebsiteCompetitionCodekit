@@ -1,6 +1,8 @@
 # 💻 Codekit Website Competition
 ## 💡 Result: 5th Highest Score Out of 24 Teams in the competition
 
+##Tech Stack
+
 ### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
