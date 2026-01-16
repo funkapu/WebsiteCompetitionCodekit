@@ -1,5 +1,5 @@
-# Codekit Website Competition 💻
-## Result: 5th Highest Score Out of 24 Teams in the competition
+# 💻 Codekit Website Competition
+## 💡 Result: 5th Highest Score Out of 24 Teams in the competition
 
 ### React + Vite
 
